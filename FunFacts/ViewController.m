@@ -42,5 +42,6 @@
     self.funFactLabel.text = [self.factBook randomFact];
 }
 
+；
 
 @end
