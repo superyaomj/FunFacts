@@ -2,8 +2,8 @@
 //  ViewController.m
 //  FunFacts
 //
-//  Created by Pasan Premaratne on 12/31/14.
-//  Copyright (c) 2014 Treehouse. All rights reserved.
+//  Created by JACKYAO on 12/31/14.
+//  Copyright (c) 2017 superyaomj. All rights reserved.
 //
 
 #import "ViewController.h"
@@ -42,6 +42,5 @@
     self.funFactLabel.text = [self.factBook randomFact];
 }
 
-；
 
 @end
